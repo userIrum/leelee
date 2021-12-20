@@ -46,7 +46,7 @@
   <!-- /.login-logo -->
   <div class="card">
     <div class="card-body login-card-body">
-      <p class="login-box-msg"> ID와 비밀번호를 사용해 로그인</p>
+      <p class="login-box-msg"> ID와 비밀번호를 사용해 로그인22222</p>
 
 <!-- 데이터 이동 폼 시작 -->
       <form action="./login.php" method="post">
